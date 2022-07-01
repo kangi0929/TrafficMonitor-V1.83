@@ -1,0 +1,4 @@
+<version>1.82</version>
+<link>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910357/download/TrafficMonitor_V1.82_x86_Lite.zip</link>
+<link_x64>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910358/download/TrafficMonitor_V1.82_x64_Lite.zip</link_x64>
+<contents>新增插件系统，可以通过插件在任务栏窗口和主窗口显示更多自定义内容。\n任务栏右键菜单中增加“任务管理器”命令。\n选项设置中新增“应用”按钮。\n历史流量统计中增加周视图。\n新增任务栏项目间距的设置。\n修正Windows11深色模式下任务栏右键菜单无法弹出的问题。\n修正Windows11下使用StartAllBack等软件将任务栏恢复为Windows10样式时，任务栏窗口无法显示的问题。</contents>

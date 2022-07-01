@@ -1,0 +1,18 @@
+﻿<version>1.82</version>
+<GitHub>
+	<link>https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.82/TrafficMonitor_V1.82_x86.zip</link>
+	<link_x64>https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.82/TrafficMonitor_V1.82_x64.zip</link_x64>
+	<link_without_temperature>https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.82/TrafficMonitor_V1.82_x86_Lite.zip</link_without_temperature>
+	<link_without_temperature_x64>https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.82/TrafficMonitor_V1.82_x64_Lite.zip</link_without_temperature_x64>
+</GitHub>
+<Gitee>
+	<link>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910359/download/TrafficMonitor_V1.82_x86.zip</link>
+	<link_x64>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910360/download/TrafficMonitor_V1.82_x64.zip</link_x64>
+	<link_without_temperature>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910357/download/TrafficMonitor_V1.82_x86_Lite.zip</link_without_temperature>
+	<link_without_temperature_x64>https://gitee.com/zhongyang219/TrafficMonitor/attach_files/910358/download/TrafficMonitor_V1.82_x64_Lite.zip</link_without_temperature_x64>
+</Gitee>
+<update_contents>
+	<contents_zh_cn>新增插件系统，可以通过插件在任务栏窗口和主窗口显示更多自定义内容。\n任务栏右键菜单中增加“任务管理器”命令。\n选项设置中新增“应用”按钮。\n历史流量统计中增加周视图。\n新增任务栏项目间距的设置。\n修正Windows11深色模式下任务栏右键菜单无法弹出的问题。\n修正Windows11下使用StartAllBack等软件将任务栏恢复为Windows10样式时，任务栏窗口无法显示的问题。</contents_zh_cn>
+	<contents_en>Added a new plug-in system, you can display more customized content in the taskbar window and the main window through the plug-in.\nAdded the "Task Manager" command to the taskbar window context menu.\nAdded the "Apply" button to the option settings dialog.\nAdded weekly view in historical traffic statistics.\nAdded the setting of task bar item spacing.\nFixed the problem that the taskbar window context menu cannot pop up in the dark mode of Windows 11.\nFixed the problem that the taskbar window could not be displayed when the taskbar was restored to the Windows 10 style using software such as StartAllBack under Windows 11.</contents_en>
+	<contents_zh_tw>新增外掛系統，可以透過外掛在工作列視窗和主視窗顯示更多自定義內容。\n工作列右鍵選單中增加“工作管理員”命令。\n選項設定中新增“應用”按鈕。\n歷史流量統計中增加周檢視。\n新增工作列專案間距的設定。\n修正Windows11深色模式下工作列右鍵選單無法彈出的問題。\n修正Windows11下使用StartAllBack等軟體將工作列恢復為Windows10樣式時，工作列視窗無法顯示的問題。</contents_zh_tw>
+</update_contents>
